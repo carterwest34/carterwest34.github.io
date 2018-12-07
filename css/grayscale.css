@@ -100,6 +100,7 @@
   background-size: cover;
 }
 
+
 .masthead h1 {
   font-family: 'Varela Round';
   font-size: 2.5rem;
@@ -108,6 +109,7 @@
   background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  padding: 2rem;
 }
 
 .masthead h2 {
@@ -302,3 +304,12 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+img {
+  border-radius: 80%;
+  width: 15rem;
+  height: 15rem;
+  box-shadow: 10px 5px black;
+}
+
+
